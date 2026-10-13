@@ -1,0 +1,11 @@
+{
+  "name": "poe2filter",
+  "author": "JCQuintas",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["path-of-exile", "web"],
+    "description": "Open poe2filter.com and sign in with your Steam account.",
+    "image": "https://poe2filter.com/logo-filter.webp"
+  }
+}
